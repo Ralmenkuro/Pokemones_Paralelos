@@ -17,3 +17,7 @@ Se creo una funcion a la cual vamos a lmara por cada uno de los hilos trabajando
 ### Estructura del Programa
 Se creeo la funion deonde se manda a llamar la informacion desde la api, y se imprime con un formato ordenado desde consola.
 
+# Pruebas
+
+![assaSin título](https://github.com/user-attachments/assets/962e6910-e27e-4231-a11f-7630b32711ff)
+
